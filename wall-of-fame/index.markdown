@@ -10,15 +10,9 @@ wordpress_id: 11
 
 There are a lot of blogs, twitter accounts and personal websites kicking around t'internet.  A lot of these are written by extremely clever ladies and gentlemen that have a real passion for software and want to share this passion with the rest of the world.  This page is my own humble way of paying my respects to these pillars of our software development society.  Long may they continue their good work.
 
-
-
 On a similar note, people who aren't on this list aren't necessarily in any way inferior to the people I have chosen... they're just different and simply may not have crossed my line of work.
 
-
-
-
 # Martin Fowler
-
 
 [http://martinfowler.com/](http://martinfowler.com/)
 
@@ -30,11 +24,7 @@ Mr. Fowler, I salute your broad range of knowledge across software development. 
 
 [http://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM](http://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM)
 
-
-
-
 # Kent Beck
-
 
 [https://twitter.com/KentBeck](https://twitter.com/KentBeck)
 
@@ -42,11 +32,7 @@ Mr. Beck feels like a little bit of an enigma to me.  I seem to go through phas
 
 [http://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530](http://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530)
 
-
-
-
 # "Uncle" Bob Martin
-
 
 [https://twitter.com/unclebobmartin](https://twitter.com/unclebobmartin)
 
@@ -60,13 +46,7 @@ Mr. Martin is a phenomenal ambassador for writing clean code that's simple to re
 
 [http://www.amazon.co.uk/Software-Development-Principles-Patterns-Practices/dp/0132760584/](http://www.amazon.co.uk/Software-Development-Principles-Patterns-Practices/dp/0132760584/)
 
-
-
-
-
-
 # Jim Webber
-
 
 [http://jimwebber.org/](http://jimwebber.org/)
 
@@ -78,11 +58,7 @@ I think it's fair to say that if there's one thing that's missing from software 
 
 [http://www.amazon.co.uk/Graph-Databases-ebook/dp/B00EHQMHEA](http://www.amazon.co.uk/Graph-Databases-ebook/dp/B00EHQMHEA)
 
-
-
-
 # Jon Skeet
-
 
 [http://msmvps.com/blogs/jon_skeet/](http://msmvps.com/blogs/jon_skeet/)
 
@@ -93,5 +69,3 @@ I'd love to say that what Mr Skeet doesn't know about C# can be written on the b
 [http://www.amazon.co.uk/C-Depth-Jon-Skeet/dp/161729134X/](http://www.amazon.co.uk/C-Depth-Jon-Skeet/dp/161729134X/)
 
 [http://www.amazon.co.uk/Real-World-Functional-Programming-Tomas-Petricek/dp/1933988924](http://www.amazon.co.uk/Real-World-Functional-Programming-Tomas-Petricek/dp/1933988924)
-
-
