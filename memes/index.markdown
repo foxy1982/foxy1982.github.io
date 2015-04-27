@@ -8,24 +8,24 @@ title: Memes
 wordpress_id: 61
 ---
 
-A few software-related memes to brighten your day...\\
+A few software-related memes to brighten your day...
 
 ---
 
-[![I Will Find You](/images/bugs-i-will-find-you.jpg)](/images/bugs-i-will-find-you.jpg)\\
+[![I Will Find You](/images/bugs-i-will-find-you.jpg)](/images/bugs-i-will-find-you.jpg)
 
 ---
 
-[![Fix All The Bugs](/images/fix-all-the-bugs.jpg)](/images/fix-all-the-bugs.jpg)\\
+[![Fix All The Bugs](/images/fix-all-the-bugs.jpg)](/images/fix-all-the-bugs.jpg)
 
 ---
 
-[![VBScript](/images/vbscript.jpg)](/images/vbscript.jpg)\\
+[![VBScript](/images/vbscript.jpg)](/images/vbscript.jpg)
 
 ---
 
-[![Some Designs](/images/some-designs.jpg)](/images/some-designs.jpg)\\
+[![Some Designs](/images/some-designs.jpg)](/images/some-designs.jpg)
 
 ---
 
-[![Not That Guy](/images/not-that-guy.jpg)](/images/not-that-guy.jpg)\\
+[![Not That Guy](/images/not-that-guy.jpg)](/images/not-that-guy.jpg)
