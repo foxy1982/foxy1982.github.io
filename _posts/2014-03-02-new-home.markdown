@@ -1,0 +1,13 @@
+---
+author: danfox1982
+comments: true
+date: 2014-03-02 22:12:49+00:00
+layout: post
+slug: new-home
+title: New Home!
+wordpress_id: 87
+categories:
+- Site
+---
+
+I've finally done something that I've been meaning to do for ages... move this blog into the cloud!  No longer will my NAS have to provide web content to t'internet!  If you find any links aren't working let me know...
