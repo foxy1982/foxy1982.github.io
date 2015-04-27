@@ -10,7 +10,7 @@ wordpress_id: 61
 
 A few software-related memes to brighten your day...
 
-[![I Will Find You](i-will-find-you.jpg)](i-will-find-you.jpg)
+[![I Will Find You](/images/i-will-find-you.jpg)](/images/i-will-find-you.jpg)
 
 
 
