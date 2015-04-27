@@ -16,22 +16,22 @@ A few software-related memes to brighten your day...
 
 
 
-[![Fix All The Bugs](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013090059-300x225.jpg)](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013090059.jpg)
+[![Fix All The Bugs](/images/fix-all-the-bugs.jpg)](/images/fix-all-the-bugs.jpg)
 
 
 
 
 
-[![VBScript](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013091314-300x300.jpg)](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013091314.jpg)
+[![VBScript](/images/vbscript.jpg)](/images/vbscript.jpg)
 
 
 
 
 
-[![Some Designs](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013091105-300x168.jpg)](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013091105.jpg)
+[![Some Designs](/images/some-designs.jpg)](/images/some-designs.jpg)
 
 
 
 
 
-[![Not That Guy](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013090822-300x300.jpg)](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013090822.jpg)
+[![Not That Guy](/images/not-that-guy.jpg)](/images/not-that-guy.jpg)
