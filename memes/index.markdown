@@ -10,7 +10,7 @@ wordpress_id: 61
 
 A few software-related memes to brighten your day...
 
-[![I Will Find You](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013091147-300x168.jpg)](http://localhost:8080/wp-content/uploads/2013/11/ZomboDroid09112013091147.jpg)
+[![I Will Find You](i-will-find-you.jpg)](i-will-find-you.jpg)
 
 
 
