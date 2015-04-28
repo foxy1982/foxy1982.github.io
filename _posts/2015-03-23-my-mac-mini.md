@@ -10,7 +10,7 @@ categories:
 - OSX
 ---
 
-So I mentioned in a [previous post](http://www.danfox.me/?p=109) that I'd bought myself (and upgraded) a Mac Mini.  I thought I'd jot down what I bought, what I've done with it and why.
+So I mentioned in a [previous post](/2015/03/09/apple-osx-and-shiny-stuff) that I'd bought myself (and upgraded) a Mac Mini.  I thought I'd jot down what I bought, what I've done with it and why.
 
 I'd seen and heard a lot of people saying that once you start to use OSX, you never want to go back to Windows.  That's all well and good, but when you're a .NET developer you really need Visual Studio to code.  Sure you can use any text editor and there are some decent .NET IDEs out there but none of them measure up to Visual Studio.  And the best way to use Visual Studio is on Windows,
 
