@@ -8,4 +8,4 @@ title: About
 wordpress_id: 7
 ---
 
-Put some stuff about me here!
+Welcome to the den... all opinion is mine alone.
