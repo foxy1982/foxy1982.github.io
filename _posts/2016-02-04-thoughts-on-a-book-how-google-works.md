@@ -1,7 +1,7 @@
 ---
 author: danfox1982
 comments: true
-date: 2016-02-14 00:00:00+00:00
+date: 2016-02-04 00:00:00+00:00
 layout: post
 slug: thoughts-on-a-book-how-google-works
 title: Thoughts on a Book - How Google Works
