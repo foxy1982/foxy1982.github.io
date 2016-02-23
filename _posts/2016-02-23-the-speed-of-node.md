@@ -1,7 +1,7 @@
 ---
 author: danfox1982
 comments: true
-date: 2016-02-23 21:34:30+00:00
+date: 2016-02-23 20:34:30+00:00
 layout: post
 slug: the-speed-of-node
 title: The Speed of Node
