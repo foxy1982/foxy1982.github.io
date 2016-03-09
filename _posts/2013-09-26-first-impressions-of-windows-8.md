@@ -11,6 +11,8 @@ categories:
 tags:
 - Windows
 - Windows 8
+image:
+  feature: banner.jpg
 ---
 
 OK, so it's second impressions really.  I tried the beta out on a netbook months ago... it didn't go well. But, betas are betas, and the hardware wasn't really suitable... so here is your second chance Windows 8.  On a simple laptop (no touchscreen).

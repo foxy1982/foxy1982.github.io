@@ -8,6 +8,8 @@ title: Guess who's back
 wordpress_id: 96
 categories:
 - Site
+image:
+  feature: banner.jpg
 ---
 
 <glados>

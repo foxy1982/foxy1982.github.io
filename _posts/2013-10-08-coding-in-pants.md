@@ -11,6 +11,8 @@ categories:
 tags:
 - Coding
 - General
+image:
+  feature: banner.jpg
 ---
 
 ...is amazing.  Everyone should try it!

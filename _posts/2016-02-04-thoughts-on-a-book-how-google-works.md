@@ -8,6 +8,8 @@ title: Thoughts on a Book - How Google Works
 categories:
 - General
 - Books
+image:
+  feature: banner.jpg
 ---
 
 I'll admit it, I don't have a great attention span.  I get bored on page 5 of a newspaper.  I prefer kids films because they're shorter and don't require much thinking.  And TV shows should be capped at 30mins, unless you're Game of Thrones because that's just awesome.

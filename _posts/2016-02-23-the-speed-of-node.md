@@ -5,8 +5,9 @@ date: 2016-02-23 20:34:30+00:00
 layout: post
 slug: the-speed-of-node
 title: The Speed of Node
-categories:
-- NodeJS
+tags: [NodeJS]
+image:
+  feature: banner.jpg
 ---
 
 I first started using [NodeJS](http://www.nodejs.org) around a year ago and as the first ever professional(?) JavaScript I'd ever written it was a fairly steep learning curve.  JavaScript is an easy language to code in, but it's a difficult language to write good code in - that's something for another blog post.

@@ -11,6 +11,8 @@ categories:
 tags:
 - Coding
 - Testing
+image:
+  feature: banner.jpg
 ---
 
 I had a brilliant chat today with a principle developer that really opened my eyes to understanding TDD.  I thought I'd conquered it, understanding that TDD boiled down to a discipline where unit tests were written before the solution code.

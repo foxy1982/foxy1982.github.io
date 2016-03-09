@@ -12,6 +12,8 @@ tags:
 - .NET
 - Coding
 - MVVM
+image:
+  feature: banner.jpg
 ---
 
 I have a lot of time for MVVM ([http://en.wikipedia.org/wiki/Model_View_ViewModel](http://en.wikipedia.org/wiki/Model_View_ViewModel) for more details!).  I find the abstraction between the visualization of the UI, and the data and commands that support it to be unparalleled (at least in the realms of .NET).  That means I can then fully unit test my view models, and by throwing a little sprinkling of dependency injection the data and commands can also be unit tested against the services that support them (or at least mocks).

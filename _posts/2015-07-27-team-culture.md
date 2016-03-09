@@ -8,6 +8,8 @@ title: Team culture
 categories:
 - Coding
 - General
+image:
+  feature: banner.jpg
 ---
 
 Lots is spoken about team culture in agile development.  A lot of it isn't really agile-specific... it's just the nature of a team trying their best to deliver something.  If you watch a football team play (soccer if you're on the other side of the Atlantic) they work together as a team - if someone is struggling then the other players will work to ensure they have the protection and help they need.  Similarly in software, if someone is struggling then people will rally around to help.  It's often attributed as a trait of agile of agile development (swarming) but in reality it's simply the culture of any software team that wants to deliver a good product.

@@ -12,6 +12,8 @@ tags:
 - General
 - Site
 - Wall of fame
+image:
+  feature: banner.jpg
 ---
 
 So, finally - after years of thinking it'd be a great idea but not doing anything about it - I've kicked off this little site.  My own little area of the internet.  Stuff will soon start to appear, in fact it's already begun with the [wall of fame](http://www.danfox.me/?page_id=11)... enjoy!

@@ -10,6 +10,8 @@ categories:
 - Random
 tags:
 - development doesn't work like that
+image:
+  feature: banner.jpg
 ---
 
 Someone asked me recently what it is tat makes a good software team leader.  It's  a really good question - I meet a lot of developers who might be architecturally brilliant, and can design the cleanest most maintainable code without breaking sweat.  Or they might have a particular knack for working with users - teasing those ever-elusive requirements out of their mind, understanding what they want to achieve with the software and transforming that into a set of requirements or tasks that a team of developers can work against.

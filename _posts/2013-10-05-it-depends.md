@@ -11,6 +11,8 @@ categories:
 tags:
 - Coding
 - General
+image:
+  feature: banner.jpg
 ---
 
 _"It depends"_

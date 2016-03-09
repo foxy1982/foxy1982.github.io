@@ -8,6 +8,8 @@ title: My First Girlfriend
 categories:
 - General
 - Amiga
+image:
+  feature: banner.jpg
 ---
 
 Just in case anyone is wondering, "Amiga" is Spanish for girlfriend.  So this post is really about the [Amiga](https://en.wikipedia.org/wiki/Amiga)... an amazing home computer sold by Commodore in the 80s and 90s.

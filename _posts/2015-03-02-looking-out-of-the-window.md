@@ -14,6 +14,8 @@ tags:
 - .NET
 - Linux
 - Windows
+image:
+  feature: banner.jpg
 ---
 
 I've been privileged enough to learn a lot of new technologies over the past few months, some of which might be the subject of future blog posts... but the thread of commonality that weaves through all of these technologies is that they're not part of the "traditional" Microsoft technology stack.  This might change with the advent of ASP.NET and open-sourcing of the .NET core, but for now it rings true, at least for me.

@@ -11,6 +11,8 @@ categories:
 tags:
 - Coding
 - Learning
+image:
+  feature: banner.jpg
 ---
 
 ... well the start of that evolution anyway.

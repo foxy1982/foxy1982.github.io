@@ -11,6 +11,8 @@ categories:
 tags:
 - .NET
 - Coding
+image:
+  feature: banner.jpg
 ---
 
 If I was building a new .NET line of business application for an enterprise I would genuinely struggle to pick a UI technology.  I don't consider myself an expert in any particular UI tech, but if I had to choose my area of expertise I'd go for WPF.

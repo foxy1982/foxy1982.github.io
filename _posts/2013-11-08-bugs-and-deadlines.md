@@ -10,6 +10,8 @@ categories:
 - Coding
 tags:
 - development doesn't work like that
+image:
+  feature: banner.jpg
 ---
 
 You meet many different types of software developers.  Some are unbelievable with UI, some brilliant with business logic.  Some (and these are rare) are even remarkable with regexs!  Some might be great at gathering requirements.  Some can be branded "good" and others "bad", but these are all relative and dependent entirely on your perspective.  However one thing is common - they will produce bugs.

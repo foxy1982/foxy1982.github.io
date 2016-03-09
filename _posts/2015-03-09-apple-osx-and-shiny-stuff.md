@@ -12,6 +12,8 @@ categories:
 tags:
 - OSX
 - Windows
+image:
+  feature: banner.jpg
 ---
 
 For a while now I've been wanting to learn a lot more about development outside of Windows.  I used Java a lot at University but pretty much haven't touched it since, and my experience of Java was always tainted by the IDE I was using.  I really can't get on with Eclipse despite trying many times.  It seems like it's greatest strength (being ultimately flexible and configurable) is also its Achilles heel; it has an identity crisis: not being brilliant at anything, aand everything is slightly awkward.  I've since had a play with IntelliJ a few times and enjoy it much more.  But that's not what I want to talk about here...

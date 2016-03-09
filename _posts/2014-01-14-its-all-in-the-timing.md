@@ -11,6 +11,8 @@ categories:
 tags:
 - development doesn't work like that
 - General
+image:
+  feature: banner.jpg
 ---
 
 I've come to the conclusion that software developers fall into one of two categories: those who can manage their time and those who can't.

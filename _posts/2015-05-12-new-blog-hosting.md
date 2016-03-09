@@ -7,6 +7,8 @@ slug: new-blog-hosting
 title: New blog hosting
 categories:
 - Blog
+image:
+  feature: banner.jpg
 ---
 
 New blog style.  Like it?

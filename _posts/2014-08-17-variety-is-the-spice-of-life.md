@@ -8,6 +8,8 @@ title: Variety is the spice of life
 wordpress_id: 100
 categories:
 - Random
+image:
+  feature: banner.jpg
 ---
 
 One of the side-effects of changing job is that I'm now working closer to the city centre... I can now get a train into work without a lot of effort! I've only ever driven to work before so I'm appreciating a different way of commuting.

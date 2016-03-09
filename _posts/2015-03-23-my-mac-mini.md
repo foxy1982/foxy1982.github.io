@@ -8,6 +8,8 @@ title: My Mac Mini
 wordpress_id: 112
 categories:
 - OSX
+image:
+  feature: banner.jpg
 ---
 
 So I mentioned in a [previous post](/2015/03/09/apple-osx-and-shiny-stuff) that I'd bought myself (and upgraded) a Mac Mini.  I thought I'd jot down what I bought, what I've done with it and why.

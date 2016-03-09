@@ -15,6 +15,8 @@ tags:
 - Functional
 - Learning
 - Scala
+image:
+  feature: banner.jpg
 ---
 
 Just for the record, I like to pronounce the word paradigm like "par-ra-dig-em".  I acknowledge it's completely wrong, I apologise wholeheartedly to the English language, but I find it fun so I'm not going to change my ways now.
