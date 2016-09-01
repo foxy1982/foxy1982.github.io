@@ -19,3 +19,4 @@ One of the downside of working with Docker on Windows is that it doesn't run nat
 There is a newer version called Docker for Windows which is still in beta and it’s definitely much slicker. It feels a lot closer to a native Docker implementation even though it uses the same VM technique, although it uses HyperV instead of VirtualBox. Unfortunately this has pitfalls for me… I have a lot of existing virtual machines that use VirtualBox and as Windows can only run one hypervisor at a time this requires a setting change, a reboot and all the cognitive context switches that go with it. I may as well just create a dual boot machine with Ubuntu as the alternative OS.
 
 None of this should put you off though.  At all.  In general, it works, and it's smooth even if it's not as slick as it is natively in Linux. At some point I'll talk a little bit about managing remote Docker containers, and how simple or complex it can be.
+
