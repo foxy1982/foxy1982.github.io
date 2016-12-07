@@ -2,7 +2,9 @@
 
 title:            Fox on Software
 locale:           en_GB
-url:              http://foxy1982.github.io
+url:              http://blog.danfox.me
+
+assets_url:       http://foxy1982.github.io
 
 
 # Jekyll configuration
