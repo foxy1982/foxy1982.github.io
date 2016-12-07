@@ -14,7 +14,7 @@ As I've said [previously](/2016/01/12/my-first-girlfriend) I'm the proud owner o
 
 Well, my Amiga is now online!  It's capable of showing http (no SSL on my Amiga yet) web pages, so I thought this would be a good opportunity to share how I did it.  Here it is (surrounded by junk...):
 
-![Amiga1200]({{ site.url }}/images/amiga.jpg)
+![Amiga1200]({{ site.assets_url }}/images/amiga.jpg)
 
 The screen was one area where I was really lucky.  The Amiga's standard RGB port is a fairly unique 23-pin D-SUB, and outputs at a non-standard refresh rate by default (15KHz).  Luckily for me, I already had a Benq monitor which supports this refresh rate, and a standard 15-pin VGA D-SUB input, and a 23-pin to 15-pin VGA cable.  Result!
 
@@ -24,7 +24,7 @@ In terms of hard drive, I had already upgraded the machine to use a 4GB Compact 
 
 A basic 1200 would struggle to run an OS, TCP/IP stack and web browser - remember we're talking about a machine that has 2MB of RAM and a CPU that runs at 14MHz... that's not a lot of juice, especially the RAM (a slow processor just means things take longer!)  A couple of years ago I bought an 8MB RAM card that sits in the trapdoor slot so I could play some games.  Initially I thought this would be enough, however due to the was memory addressing works with the Amiga 1200 and the PCMCIA slot I was limited to using only 4MB of RAM from the expansion card - 6MB in total.  I decided to upgrade to an ACA1221 and now my Amiga runs at 28MHz with 63MB RAM, more than enough to run the network stack and browser!  Here's what the ACA1221 looks like:
 
-![ACA1221]({{ site.url }}/images/aca1221.jpg)
+![ACA1221]({{ site.assets_url }}/images/aca1221.jpg)
 
 Getting the PCMCIA card and ACA1221 expansion working smoothly at startup involved some changes to the startup-sequence file.  That's the file that the Amiga executes to configure the system.  For anyone that's interested, these are the top few lines of the startup-sequence... I'll explain the settings in a future post:
 
@@ -47,6 +47,6 @@ In terms of software, I started off using the excellent [ClassicWB](http://class
 
 Here's an image of the well-known Google search page:
 
-![Google]({{ site.url }}/images/amiga_google.jpg)
+![Google]({{ site.assets_url }}/images/amiga_google.jpg)
 
 Such a delightful shade of yellow.
