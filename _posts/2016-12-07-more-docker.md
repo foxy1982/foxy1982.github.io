@@ -1,7 +1,7 @@
 ---
 author: danfox1982
 comments: true
-date: 2016-11-03 08:34:30+00:00
+date: 2016-12-07 08:34:30+00:00
 layout: post
 slug: more-docker
 title: More Docker
