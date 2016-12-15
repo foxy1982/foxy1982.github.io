@@ -1,7 +1,7 @@
 ---
 author: danfox1982
 comments: true
-date: 2016-12-12 08:34:30+00:00
+date: 2016-12-15 08:34:30+00:00
 layout: post
 slug: raspberries-pies-pythons-ansible-and-the-weather
 title: Raspberries, Pies, Pythons, Ansible and the Weather
@@ -18,10 +18,27 @@ Fast forward a couple of years and a couple of generations of Raspberry Pi and I
 
 I also wanted to use a provisioning tool to configure the system so I can easily wipe the microSD card and start again if I want to.  This would help if I need to replace the microSD card or upgrade the Raspberry Pi in the future.
 
-I chose [python](https://www.python.org/){:target="_blank"} as the development language as there are a lot of resources on how to write python on Raspberry Pi, and it is used extensively in DevOps and would be a useful tool to learn.
+I chose [Python](https://www.python.org/){:target="_blank"} as the development language as there are a lot of resources on how to write Python on Raspberry Pi, and it is used extensively in DevOps and would be a useful tool to learn.
 
 [Ansible](https://www.ansible.com/){:target="_blank"} is a provisioning tool I'd had a little bit of exposure to and this was a great opportunity to learn more about it.  I found it particularly appealing amongst provisioning tools due to the simplicity of the ssh-based connection and the ability to run simple shell scripts directly.
 
 The weather data is provided by [Dark Sky](https://darksky.net/dev/){:target="_blank"}.  The API is simple to use and 1,000 free queries are permitted per day, which will be fine for a five-minute periodic refresh.
 
 Finally the LED matrix I selected is the [SenseHAT](https://www.raspberrypi.org/products/sense-hat/){:target="_blank"}.  I also looked at the [Unicorn HAT](https://shop.pimoroni.com/products/unicorn-hat){:target="_blank"} which is a similar price but decided the extra features - in particular the joystick for a headless input device - made the SenseHAT a better choice.
+
+All the code is [here](https://github.com/foxy1982/RaspberryPi){:target="_blank"}.  The Python code for the actual program is in the `weather-hat` directory.  The Ansible playbooks are in `provisioning`.
+
+The code itself is fairly simple: it queries the Dary Sky API using with an API key from an environment variable. The latitude and longitude to query for are configured in the same way.  Ansible includes a nice feature called [Ansible Vault](http://docs.ansible.com/ansible/playbooks_vault.html){:target="_blank"} which basically encrypts and password protects variables.  I use this for the API key, so replace this with your own if you try it out.  Ansible will prompt for the password for any encrypted files when you run `ansible-playbook`.
+
+The weather images are simple png files, which is nice as you can preview them outside of the application.  Initially I had configured them as pixel arrays but this proved difficult to maintain.  If anyone has any idea on how to improve the icons, please let me know, artistry isn't my strongest point...!
+
+The provisioning side of it is fairly simple too.  The playbook will install Git and Leafpad onto the Pi to download the code and to help with editing files should you want to.  It will then install the repo itself (an easy way to get the source code onto the device!) as well as some SenseHAT examples to play around with.  It then installs the weather-hat application as a service and starts it up.  Finally it installs nginx.
+
+There are a few things I'd like to improve in the future:
+* nginx - I've put the provisioning steps in for nginx but it's not yet being used.  I want to use Flask in the service to allow configuration of the service, such as latitude and longitude.
+* weather modules - I think there will be a better way to manage the weather modules and images.  At the moment there's an implicit interface to the modules and the need to be loaded in `icon_mapper.py`.  This could probably be changed to a more dynamic loading technique.
+* control - use the joystick on the front of the SenseHAT to change the displayed data, maybe change the forecast length or move through a set of locations.
+
+So, lots to do, but lots learnt about Python and Ansible already!
+
+Enjoy
