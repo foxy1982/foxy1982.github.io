@@ -36,11 +36,11 @@ The provisioning side of it is fairly simple too.  The playbook will install Git
 
 There are a few things I'd like to improve in the future:
 
-- nginx: I've put the provisioning steps in for nginx but it's not yet being used.  I want to use Flask in the service to allow configuration of the service, such as latitude and longitude.
+- *nginx*: I've put the provisioning steps in for nginx but it's not yet being used.  I want to use Flask in the service to allow configuration of the service, such as latitude and longitude.
 
-- weather modules: I think there will be a better way to manage the weather modules and images.  At the moment there's an implicit interface to the modules and the need to be loaded in `icon_mapper.py`.  This could probably be changed to a more dynamic loading technique.
+- *weather modules*: I think there will be a better way to manage the weather modules and images.  At the moment there's an implicit interface to the modules and the need to be loaded in `icon_mapper.py`.  This could probably be changed to a more dynamic loading technique.
 
-- control: use the joystick on the front of the SenseHAT to change the displayed data, maybe change the forecast length or move through a set of locations.
+- *control*: use the joystick on the front of the SenseHAT to change the displayed data, maybe change the forecast length or move through a set of locations.
 
 So, lots to do, but lots learnt about Python and Ansible already!
 
