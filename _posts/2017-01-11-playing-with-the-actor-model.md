@@ -1,7 +1,7 @@
 ---
 author: danfox1982
 comments: true
-date: 2016-01-11 08:34:30+00:00
+date: 2017-01-11 08:34:30+00:00
 layout: post
 slug: playing-with-the-actor-model
 title: Playing with the Actor Model
