@@ -32,8 +32,10 @@ The next endpoint to test is to get the status of the game we just created, so w
 
 After the assertions, the test script for the first request does this:
 
-```var postResponse = JSON.parse(responseBody);
-postman.setEnvironmentVariable("gameId", postResponse.id);```
+```
+var postResponse = JSON.parse(responseBody);
+postman.setEnvironmentVariable("gameId", postResponse.id);
+```
 
 which pulls the ID out of the response and sets it in `gameId` in the environment.  In the second request, you can see that the URL includes this `gameId` variable:
 
@@ -63,7 +65,10 @@ Enter Newman!
 
 You may need to start a new shell after you install this, but you should be ready to run Newman now:
 
-`newman run snooker-scorer.postman_collection.json --environment snooker.postman_environment.json`
+```
+newman run snooker-scorer.postman_collection.json
+--environment snooker.postman_environment.json
+```
 
 Which will spit out something like this:
 
@@ -71,6 +76,11 @@ Which will spit out something like this:
 
 There are also file output formats available, such as json:
 
-`newman run snooker-scorer.postman_collection.json --environment snooker.postman_environment.json --reporters json --reporter-json-export results.json`
+```
+newman run snooker-scorer.postman_collection.json
+--environment snooker.postman_environment.json
+--reporters json
+--reporter-json-export results.json
+```
 
 This is a really neat test setup which documents behaviour, is simple enough to be used by developers and non-developers with basic coding skills, and can be easily added to a development pipeline.  Enjoy!
