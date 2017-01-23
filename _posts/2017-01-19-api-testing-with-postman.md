@@ -38,7 +38,7 @@ postman.setEnvironmentVariable("gameId", postResponse.id);```
 which pulls the ID out of the response and sets it in `gameId` in the environment.  In the second request, you can see that the URL includes this `gameId` variable:
 
 {% raw %}
-`http://\{\{host\}\}:1147/game/\{\{gameId\}\}`
+`http://{{host}}:1147/game/{{gameId}}`
 {% endraw %}
 
 Postman will insert the `gameId` into the URL in the same way as it sets the `host` for us.  Again, the test scripts do assertions.  We now set a player ID variable to use in subsequent tests (if you want to reorder tests, I just drag them around in the left-hand pane... but note that any tests which depend on environment variables being set in earlier tests are going to fail).
