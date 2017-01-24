@@ -10,7 +10,7 @@ image:
   feature: banner.jpg
 ---
 
-[Postman](https://www.getpostman.com/){:target="_blank"} is an absolutely brilliant tool for ad-hoc API testing.  It’s really easy send requests to endpoints regardless of whether they need headers, what the HTTP verb is, or what the payload structure is like.
+[Postman](https://www.getpostman.com/){:target="_blank"} is an absolutely brilliant tool for ad-hoc API testing.  It’s really easy to send requests to endpoints regardless of whether they need headers, what the HTTP verb is, or what the payload structure is like.
 
 Now that functionality is great on its own, but the environments make it even better.  Now I can change the URL or a header value to be a variable which I can change depending on what environment to talk to.  Want to see what the same query looks like against test or prod?  Easy, just change environment and Postman will replace the variable value for you!
 
