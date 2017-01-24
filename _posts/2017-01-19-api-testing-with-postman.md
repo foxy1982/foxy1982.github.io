@@ -43,7 +43,7 @@ which pulls the ID out of the response and sets it in `gameId` in the environmen
 `http://{{host}}:1147/game/{{gameId}}`
 {% endraw %}
 
-Postman will insert the `gameId` into the URL in the same way as it sets the `host` for us.  Again, the test scripts do assertions.  We now set a player ID variable to use in subsequent tests.  If you want to reorder tests, I just drag them around in the left-hand pane... but note that any tests which depend on environment variables being set in earlier tests are going to fail... alternatively you can force Postman to jump to a certain request using `postman.setNextRequest("POST shot");`.
+Postman will insert the `gameId` into the URL in the same way as it sets the `host` for us.  Again, the test scripts do assertions.  We now set a player ID variable to use in subsequent tests.  If you want to reorder tests, I just drag them around in the left-hand pane... but note that any tests which depend on environment variables being set in earlier tests are going to fail... alternatively you can force Postman to jump to a certain request using `postman.setNextRequest("POST shot");`
 
 So what we have now is great.  I can open up Postman, pick a collection, and click each request in turn and watch the tests report green each time.  However if there is a lot of tests this can be a pain, and if I click them out of order by accident, I’m invalidating all the testing since the environment variables persist in the session and may alter the behaviour of the requests.
 
