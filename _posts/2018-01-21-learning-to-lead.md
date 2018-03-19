@@ -5,7 +5,7 @@ date: 2018-01-21 08:34:30+00:00
 layout: post
 slug: learning-to-lead
 title: Learning to Lead
-tags: [General]
+tags: [General, Leading]
 image:
   feature: banner.jpg
 ---
